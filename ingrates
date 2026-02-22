@@ -2,6 +2,7 @@
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4 
 Press: ALT+F4
 <2>
@@ -12,7 +13,7 @@ Press: ALT+F4
 <off>
 git clone https://github.com/jellybabypsi/scum
 <off>
-Delay: 180
+Delay: 1800
+git clone https://github.com/jellybabypsi/all2
 <off>
 >file
-git clone https://github.com/jellybabypsi/all2
