@@ -11,9 +11,8 @@ Press: ALT+F4
 Press: ALT+F4
 <on>
 <2>
-<off>
 git clone https:github.com/021526-123425/system7.1
-<off>
+>file
 pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
 >file
 Delay: 450
