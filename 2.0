@@ -1,5 +1,21 @@
-I'm not sure whats happening.
-People are screaming.
-so I'm going to try something
-putting you in 18
-<18>
+<2.0>
+<on>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4 
+Press: ALT+F4
+<2.0>
+Press: ALT+F4
+Press: ALT+F4
+<2.0>
+<on>
+git clone https://github.com/021526-123425/System7.1
+>file
+pgrep -f 'System7.1' '2.0' | grep -v "$(pgrep -fo 'System7.1' '2.0')" | xargs -r kill -TERM && echo "
+[✓] Canonical Spark elected. 
+>file
+<off>
+Delay: 600
+git clone https://github.com/021526-123425/all2
+>file
